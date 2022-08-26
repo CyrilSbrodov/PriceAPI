@@ -1,0 +1,2250 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Author>Пользователь</Author>
+  <LastAuthor>Пользователь Windows</LastAuthor>
+  <Created>2022-08-25T10:02:10Z</Created>
+  <Version>15.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>5895</WindowHeight>
+  <WindowWidth>11400</WindowWidth>
+  <WindowTopX>0</WindowTopX>
+  <WindowTopY>0</WindowTopY>
+  <TabRatio>0</TabRatio>
+  <RefModeR1C1/>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial" ss:Size="8"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="m149816536">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#CCC085"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#CCC085"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#CCC085"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#CCC085"/>
+   </Borders>
+   <Font ss:FontName="Arial"/>
+   <Interior ss:Color="#F4ECC5" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s16">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Bottom"/>
+  </Style>
+  <Style ss:ID="s17">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top"/>
+   <Font ss:FontName="Arial" ss:Size="18" ss:Bold="1"/>
+  </Style>
+  <Style ss:ID="s18">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top"/>
+   <Font ss:FontName="Arial"/>
+  </Style>
+  <Style ss:ID="s20">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#CCC085"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#CCC085"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#CCC085"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#CCC085"/>
+   </Borders>
+   <Font ss:FontName="Arial"/>
+   <Interior ss:Color="#F4ECC5" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s24">
+   <Alignment ss:Horizontal="Right" ss:Vertical="Top"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#CCC085"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#CCC085"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#CCC085"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#CCC085"/>
+   </Borders>
+   <Font ss:FontName="Arial" ss:Size="8"/>
+   <Interior ss:Color="#F8F2D8" ss:Pattern="Solid"/>
+  </Style>
+  <Style ss:ID="s25">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#CCC085"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#CCC085"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#CCC085"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#CCC085"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="s26">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:Indent="2" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#CCC085"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#CCC085"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#CCC085"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#CCC085"/>
+   </Borders>
+  </Style>
+  <Style ss:ID="s27">
+   <Alignment ss:Horizontal="Right" ss:Vertical="Top"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#CCC085"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#CCC085"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#CCC085"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#CCC085"/>
+   </Borders>
+   <NumberFormat ss:Format="0.000;[Red]\-0.000"/>
+  </Style>
+  <Style ss:ID="s28">
+   <Alignment ss:Horizontal="Right" ss:Vertical="Top"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#CCC085"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#CCC085"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#CCC085"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#CCC085"/>
+   </Borders>
+   <NumberFormat ss:Format="#,##0.000;[Red]\-#,##0.000"/>
+  </Style>
+  <Style ss:ID="s29">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+   <Font ss:FontName="Arial"/>
+  </Style>
+  <Style ss:ID="s34">
+   <Alignment ss:Horizontal="Left" ss:Vertical="Top" ss:WrapText="1"/>
+   <Borders>
+    <Border ss:Position="Bottom" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#CCC085"/>
+    <Border ss:Position="Left" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#CCC085"/>
+    <Border ss:Position="Right" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#CCC085"/>
+    <Border ss:Position="Top" ss:LineStyle="Continuous" ss:Weight="1"
+     ss:Color="#CCC085"/>
+   </Borders>
+   <Font ss:FontName="Arial" ss:Size="8"/>
+   <Interior ss:Color="#F8F2D8" ss:Pattern="Solid"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="TDSheet">
+  <Table ss:ExpandedColumnCount="8" ss:ExpandedRowCount="345" x:FullColumns="1"
+   x:FullRows="1" ss:DefaultColumnWidth="47.25" ss:DefaultRowHeight="11.4375">
+   <Column ss:StyleID="s16" ss:AutoFitWidth="0"/>
+   <Column ss:StyleID="s16" ss:AutoFitWidth="0" ss:Width="18.75"/>
+   <Column ss:StyleID="s16" ss:AutoFitWidth="0" ss:Width="231.75"/>
+   <Column ss:StyleID="s16" ss:AutoFitWidth="0" ss:Width="15"/>
+   <Column ss:StyleID="s16" ss:AutoFitWidth="0" ss:Width="24"/>
+   <Column ss:StyleID="s16" ss:AutoFitWidth="0" ss:Width="346.5"/>
+   <Column ss:StyleID="s16" ss:AutoFitWidth="0" ss:Width="42"/>
+   <Column ss:StyleID="s16" ss:AutoFitWidth="0" ss:Width="63"/>
+   <Row ss:AutoFitHeight="0" ss:Height="9.9375" ss:StyleID="s16"/>
+   <Row ss:AutoFitHeight="0" ss:Height="24.9375">
+    <Cell ss:StyleID="s17"><Data ss:Type="String">Остатки и доступность товаров</Data></Cell>
+    <Cell ss:StyleID="s17"/>
+    <Cell ss:StyleID="s17"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="9.9375" ss:StyleID="s16"/>
+   <Row ss:AutoFitHeight="0" ss:Height="26.0625">
+    <Cell ss:StyleID="s18"><Data ss:Type="String">Параметры:</Data></Cell>
+    <Cell ss:StyleID="s18"/>
+    <Cell ss:MergeAcross="5" ss:StyleID="s29"><Data ss:Type="String">Склад Равно &quot;Шахты&quot; И&#10;Номенклатура В группе из списка &quot;РТИ&quot;</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="9.9375" ss:StyleID="s16"/>
+   <Row ss:AutoFitHeight="0" ss:Height="12.9375">
+    <Cell ss:MergeAcross="6" ss:StyleID="s20"><Data ss:Type="String">Склад</Data></Cell>
+    <Cell ss:MergeDown="1" ss:StyleID="m149816536"><Data ss:Type="String">В наличии</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="26.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s20"><Data ss:Type="String">Номенклатура.Наименование для печати</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Номенклатура</Data></Cell>
+    <Cell ss:StyleID="s20"><Data ss:Type="String">Ед. изм.</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="6" ss:StyleID="s34"><Data ss:Type="String">Шахты</Data></Cell>
+    <Cell ss:StyleID="s24"/>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Рукав МБС напорно-всасывающий 100-0.8-5000, ТУ 38.105373-91</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">100-0.8-5000, ТУ 38.105373-91</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">пог. м</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">5</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Рукав с нитяной оплеткой 10х17.5-1.47 ГОСТ 10362-2017</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">10х17.5-1.47, ГОСТ 10362-2017</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">пог. м</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">151.1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Рукав с нитяной оплеткой 12х20-1.6, ГОСТ 10362-2017</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">12х20-1.6, ГОСТ 10362-2017</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">пог. м</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">122.7</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Рукав с нитяной оплеткой 14х23-1,6/к ГОСТ 10362-2017</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">14х23-1,6/к, ГОСТ 10362-76</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">пог. м</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="Number">1920</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Рукав с нитяной оплеткой 14х23-1.6  ГОСТ 10362-2017</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">14х23-1.6  ГОСТ 10362-2017</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">пог. м</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">82</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Рукава напорные длинномерный 16ВГ-1.0 ТУ 38105998-91</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">16ВГ-1.0, ТУ 38.105998-91</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">пог. м</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">253</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Рукав с нитяной оплеткой 16х24-0.63  ГОСТ 10362-2017</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">16х24-0.63  ГОСТ 10362-2017</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">пог. м</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">527.5</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Рукав с нитяной оплеткой 16х25-1,6  ГОСТ 10362-2017</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">16х25-1.6  ГОСТ 10362-2017</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">пог. м</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">383.2</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Рукава напорные длинномерный 18ВГ-1.0 ТУ 38105998-91</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">18ВГ-1.0, ТУ 38.105998-91</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">пог. м</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Рукав с нитяной оплеткой 18х27-1.6  ГОСТ 10362-2017</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">18х27-1.6  ГОСТ 10362-2017</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">пог. м</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21.9375">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Рукав резиновый напорный с нитяным усилением 18х27-1.6 длинномер ГОСТ 10362-2017</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">18х27-1.6 длинномер ГОСТ 10362-2017</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">пог.м</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">196.6</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">20ВГ-1,0 ТУ 2554-108-05800952-97</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">20ВГ-1,0 ТУ 2554-108-05800952-97</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">пог. м</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">100</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Рукава напорные с нитяным каркасом, длинномерный 20ВГ-1.0, ТУ 38105998-91</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">20ВГ-1.0, ТУ 38.105998-91 (бухта 50м)</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">пог. м</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">55</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Рукав с нитяной оплеткой 20х29-1.6 (до 10м) ГОСТ 10362-2017</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">20х29-1.6 до 10 м, ГОСТ 10362-2017</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">пог. м</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">300.60000000000002</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Рукав с нитяной оплеткой 22х32-1.47 до 10 м, ГОСТ 10362-2017</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">22х32-1.47 до 10 м, ГОСТ 10362-2017</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">пог. м</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">20</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Рукав МБС напорно-всасывающий 25-0.8-5000, ТУ 38.105373-91</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">25-0.8-5000, ТУ 38.105373-91</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">пог. м</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">30</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Рукава напорные с нитяным каркасом, длинномерный 25ВГ-1.0, ТУ 38105998-91</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">25ВГ-1.0, ТУ 38105998-91</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">пог. м</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">100</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">25ВГ-1.0/КЗ, ТУ 2554-108-05800952-97</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">25ВГ-1.0/КЗ, ТУ 2554-108-05800952-97</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">пог. м</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">50</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Рукав с нитяной оплеткой 25х35-1.6 (до 10м) ГОСТ 10362-2017</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">25х35-1.6 до 10 м, ГОСТ 10362-2017</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">пог. м</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">304.10000000000002</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Рукав с нитяной оплеткой 27х36.5-0.49 до 10 м, ГОСТ 10362-2017</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">27х36.5-0.49 до 10 м, ГОСТ 10362-2017</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">пог. м</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">40.4</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Рукав с нитяной оплеткой 3.8х9-0.49, ГОСТ 10362-2017</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">3.8х9-0.49, ГОСТ 10362-2017</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">пог. м</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">19</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Рукав с нитяной оплеткой 32х43-1,6 (до 10 м) ГОСТ 10362-2017</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">32х43-1.6, ГОСТ 10362-2017</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">пог. м</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">36.9</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Рукав МБС напорно-всасывающий 38-0.8-3000, ТУ 38.105373-91</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">38-0.8-3000, ТУ 38.105373-91</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">пог. м</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">24</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Рукав с нитяной оплеткой 38х49-1.6 до 10 м, ГОСТ 10362-2017</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">38х49-1.6 до 10 м, ГОСТ 10362-2017</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">пог. м</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">33.6</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Рукав с нитяной оплеткой 40х51,5 (16 атм.) ГОСТ 10362-2017</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">40х51.5-1.6, ГОСТ 10362-2017</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">пог. м</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">70.099999999999994</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Рукав с нитяной оплеткой 42х52-0.29 до 10 м, ГОСТ 10362-2017</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">42х52-0.29 до 10 м, ГОСТ 10362-2017</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">пог. м</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">152.5</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Рукав автотракторный 50-61-0,3(3), ТУ 38.1051909-89</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">50-61-0,3(3), ТУ 38.1051909-89</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">пог. м</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">29.2</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Рукав с нитяной оплеткой 50х61.5-1.6, ГОСТ 10362-2017</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">50х61.5-1.6, ГОСТ 10362-2017</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">пог. м</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">202</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Рукав с нитяной оплеткой 56х69-0,98 ГОСТ 10362-2017</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">56х69-0,98 ГОСТ 10362-2017</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">пог. м</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">10</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Рукав с нитяной оплеткой 6х14-1,6 ГОСТ 10362-2017</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">6х14-1.6, ГОСТ 10362-2017</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">пог. м</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">87.9</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">8*15,5 мм (16 атм) ГОСТ 10362-2017</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">8*16,5 мм (16 атм) ГОСТ 10362-2017</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">пог. м</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">51</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Рукав с нитяной оплеткой 8х15,5-1,47 ГОСТ 10362-2017</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">8х15,5-1.47, ГОСТ 10362-2017</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">пог. м</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">80</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Рукава напорные с нитяным каркасом, длинномерный 9Б-1.0, ТУ 38105998-91</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">9Б-1.0, ТУ 38105998-91</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">пог. м</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Рукав резиновый для газовой сварки и резки металлов I-12.0-0.63, ГОСТ 9356-75</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">I-12.0-0.63, ГОСТ 9356-75 (Казань)</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">пог. м</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">50</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Рукав резиновый для газовой сварки и резки металлов I-6.3-0.63, ГОСТ 9356-75</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">I-6.3-0.63, ГОСТ 9356-75</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">пог. м</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">128</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Рукав резиновый для газовой сварки и резки металлов I-9-0.63, ГОСТ 9356-75</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">I-9-0.63, ГОСТ 9356-75</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">пог. м</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">17</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Рукав резиновый для газовой сварки и резки металлов I-9-0.63, ГОСТ 9356-75</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">I-9-0.63, ГОСТ 9356-75 (Казань)</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">пог. м</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">30</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Рукав резиновый для газовой сварки и резки металлов I-9.0-0.63, (50м) ГОСТ 9356-75</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">I-9.0-0.63, (50м) ГОСТ 9356-75</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">пог. м</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">250</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Рукав резиновый для газовой сварки и резки металлов II-6.3-0.63, ГОСТ 9356-75</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">II-6.3-0.63, ГОСТ 9356-75</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">пог. м</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">160</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21.9375">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Рукав резиновый для газовой сварки и резки металлов II-9-0.63, (100 м) ГОСТ 9356-75</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">II-9-0.63, (100 м) ГОСТ 9356-75</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">пог. м</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Рукав резиновый для газовой сварки и резки металлов II-9-0.63, ГОСТ 9356-75</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">II-9-0.63, ГОСТ 9356-75</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">пог. м</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="Number">1050</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Рукав для газовой сварки и резки металлов III-12-2,0 ГОСТ 9356-75</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">III-12-2.0, ГОСТ 9356-75</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">пог. м</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">100</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Рукав резиновый для газовой сварки и резки металлов III-12-2.0, ГОСТ 9356-75</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">III-12-2.0, ГОСТ 9356-75 (Казань)</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">пог. м</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">300</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Рукав резиновый для газовой сварки и резки металлов III-6.3-2.0 ГОСТ 9356-75</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">III-6.3-2.0, ГОСТ 9356-75</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">пог. м</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">723</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Рукав резиновый для газовой сварки и резки металлов III-6.3-2.0 ГОСТ 9356-75</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">III-6.3-2.0, ГОСТ 9356-75 (Казань)</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">пог. м</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">42</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Рукав для газовой сварки и резки металлов III-9-2.0 ПО (50м) ГОСТ 9356-75</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">III-9-2.0, ПО (50м) ГОСТ 9356-75</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">пог. м</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">870</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Рукав РВД с металлическими оплетками IIЛ-8-32, ГОСТ 6286-73</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">IIЛ-8-32, ГОСТ 6286-73</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">пог. м</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">4.7</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Ремень приводной клиновой А-1450 Lp / 1420 Li ГОСТ 1284.1-3-89</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">А-1450, ГОСТ 1284.1-3-89</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">шт</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">20</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Ремень приводной клиновой нормального сечения А-1800, ГОСТ 1284.1-3-89</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">А-1800, ГОСТ 1284.1-3-89</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">шт</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">3</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Ремень приводной клиновой нормального сечения А-2240, ГОСТ 1284.1-3-89</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">А-2240, ГОСТ 1284.1-3-89</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">шт</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">166</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Картон асбестовый КАОН-1 4мм, ГОСТ 2850-95</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Асбокартон КАОН 4мм, ГОСТ 2850-95</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">кг</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">8.6</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Асбокартон  КАОН 5мм, ГОСТ 2850-95</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Асбокартон КАОН 5мм, ГОСТ 2850-95</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">кг</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">81</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Асбокартон КАОН-3 10мм (800х1000мм)  ТУ 2576-05778230-3-99</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Асбокартон КАОН-3 10мм (800х1000мм)  ТУ 2576-05778230-3-99</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">кг</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">40.700000000000003</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Рукав всасывающий с текстильным каркасом Б-1-25 10 м, ГОСТ 5398-76</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Б-1-25 10 м, ГОСТ 5398-76</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">пог. м</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">10</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Рукав всасывающий с текстильным каркасом Б-1-32 10 м, ГОСТ 5398-76</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Б-1-32 10 м, ГОСТ 5398-76</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">пог. м</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">70</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Рукав напорно-всасывающий с текстильным каркасом Б-2-100-5 4 м, ГОСТ 5398-76</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Б-2-100-5 4 м, ГОСТ 5398-76</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">пог. м</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">36</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Рукав напорно-всасывающий с текстильным каркасом Б-2-32-3 (10 м) ГОСТ 5398-76</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Б-2-32-3 10 м, ГОСТ 5398-76</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">пог. м</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">60</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Рукав напорно-всасывающий с текстильным каркасом Б-2-50-10 4 м, ГОСТ 5398-76</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Б-2-50-10 4м, ГОСТ 5398-76</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">пог. м</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">4</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Рукав напорно-всасывающий с текстильным каркасом Б-2-50-5 6 м, ГОСТ 5398-76</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Б-2-50-5 6 м, ГОСТ 5398-76</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">пог. м</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">18</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Рукав напорно-всасывающий с текстильным каркасом Б-2-65-3 6 м, ГОСТ 5398-76</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Б-2-65-3 6 м, ГОСТ 5398-76</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">пог. м</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">18</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21.9375">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Рукав напорно-всасывающий с текстильным каркасом Б-2-75-10 (10 м) ГОСТ 5398-76</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Б-2-75-10 (10 м) ГОСТ 5398-76</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">пог. м</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">10</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Рукав напорно-всасывающий с текстильным каркасом Б-2-75-3 4 м, ГОСТ 5398-76</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Б-2-75-3 4 м, ГОСТ 5398-76</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">пог. м</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">4</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Рукав напорно-всасывающий с текстильным каркасом Б-2-75-5 10 м, ГОСТ 5398-76</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Б-2-75-5 10 м, ГОСТ 5398-76</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">пог. м</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">20</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Рукав резиновый напорный с текстильным каркасом Б(I)-10-16-27, ГОСТ 18698-79</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Б(I)-10-16-27, ГОСТ 18698-79</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">пог. м</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">10</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21.9375">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Рукав резиновый напорный с текстильным каркасом Б(I)-10-32х45 (20м) ГОСТ 18698-79</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Б(I)-10-32-45 20м, ГОСТ 18698-79</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">пог. м</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">20</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Битумно-каучуковая мастика Температура размягчения мин. 80 гр (18 Л)</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Битумно-каучуковая мастика Температура размягчения мин. 80 гр (18 Л)</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">шт</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">39</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Рукав напорно-всасывающий с текстильным каркасом В-1-32 10 м, ГОСТ 5398-76</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">В-1-32 10 м, ГОСТ 5398-76</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">пог. м</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">60</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Рукав напорно-всасывающий с текстильным каркасом В-2-100-5 4 м, ГОСТ 5398-76</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">В-2-100-5 4 м, ГОСТ 5398-76</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">пог. м</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">8</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Рукав напорно-всасывающий с текстильным каркасом В-2-100-5 (6м) ГОСТ 5398-76</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">В-2-100-5 6м, ГОСТ 5398-76</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">пог. м</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">12</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Рукав напорно-всасывающий с текстильным каркасом В-2-32-3 10 м, ГОСТ 5398-76</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">В-2-32-3 10 м, ГОСТ 5398-76</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">пог. м</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">180</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Рукав напорно-всасывающий с текстильным каркасом В-2-50-10 10 м, ГОСТ 5398-76</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">В-2-50-10 10 м, ГОСТ 5398-76</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">пог. м</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">10</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Рукав напорно-всасывающий с текстильным каркасом В-2-50-5 6000, ГОСТ 5398-76</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">В-2-50-5 6000, ГОСТ 5398-76</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">пог. м</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">6</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21.9375">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Рукав резиновый напорный с текстильным каркасом В(II)-16-75-100 до 10 м, ГОСТ 18698-79</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">В(II)-16-75-100 до 10 м, ГОСТ 18698-79</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">пог. м</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">87.9</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21.9375">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Рукав резиновый напорный с текстильным каркасом В(II)-6.3-100х115 до 10 м ГОСТ 18698-79</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">В(II)-6.3-100-115, ГОСТ 18698-79</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">пог. м</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">8</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Ремень приводной клиновой нормального сечения В(Б)-1180, ГОСТ 1284.1-3-89</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">В(Б)-1180, ГОСТ 1284.1-3-89</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">шт</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">80</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Ремень приводной клиновой нормального сечения В(Б)-1600, ГОСТ 1284.1-3-89</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">В(Б)-1600, ГОСТ 1284.1-3-89</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">шт</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">2</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Ремень приводной клиновой нормального сечения В(Б)-2400, ГОСТ 1284.1-3-89</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">В(Б)-2400, ГОСТ 1284.1-3-89</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">шт</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">12</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Ремень приводной клиновой нормального сечения В(Б)-3150, ГОСТ 1284.1-3-89</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">В(Б)-3150, ГОСТ 1284.1-3-89</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">шт</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">7</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21.9375">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Рукав резиновый напорный с текстильным каркасом Г(IV)-6,3-16-27 до 10 м, ГОСТ 18698-79</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Г(IV)-6,3-16-27 до 10 м, ГОСТ 18698-79</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">пог. м</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">20</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Герметик  прокладка  красный. ABRO 11-AB-СН-R-S 85гр.</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Герметик  прокладка  красный. ABRO 11-AB-СН-R-S 85гр.</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">шт</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">4</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Герметик силиконовый белый (280 мл)</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Герметик силиконовый белый (280 мл)</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">шт</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">80</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Герметик силиконовый прозрачный 260 мл</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Герметик силиконовый прозрачный 260 мл</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">шт</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">30</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Ремень приводной клиновой нормального сечения Д(Г)-3150, ГОСТ 1284.1-3-89</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Д(Г)-3150, ГОСТ 1284.1-3-89</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">шт</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">12</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Ремень приводной клиновой нормального сечения Д(Г)-7500, ГОСТ 1284.1-3-89</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Д(Г)-7500, ГОСТ 1284.1-3-89</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">шт</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Ремень приводной клиновой нормального сечения Е(Д)-14000, ГОСТ 1284.1-3-89</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Е(Д)-14000, ГОСТ 1284.1-3-89</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">шт</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">5</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Замок механический для конвейерной ленты B4R</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Замок механический для конвейерной ленты B4R</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">шт</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">2</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Замок механический для конвейерной ленты R1</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Замок механический для конвейерной ленты R1</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">шт</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">3</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Замок механический для конвейерной ленты R2</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Замок механический для конвейерной ленты R2</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">шт</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Камлок алюм. A-300 3* (75 мм)</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Камлок алюм. A-300 3* (75 мм)</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">шт</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">6</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Камлок алюм. DC-300 3&quot; (75 мм)</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Камлок алюм. DC-300 3&quot; (75 мм)</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">шт</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">6</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Камлок Е-300 3&quot; (75 мм)</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Камлок Е-300 3&quot; (75 мм)</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">шт</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">6</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Камлок С-300 3&quot; (75мм) алюмин.</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Камлок С-300 3&quot; (75мм) алюмин.</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">шт</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">6</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Капролон графитонаполненный ПА-6 МГ ф 20х1000 мм (~0,6 кг)</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Капролон графитонаполненный ПА-6 МГ ф 20х1000 мм (~0,6 кг) ШТ</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">шт</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Капролон графитонаполненный ПА-6 МГ ф 30х1000 мм (~0,9 кг)</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Капролон графитонаполненный ПА-6 МГ ф 30х1000 мм (~0,9 кг) ШТ.</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">шт</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">2</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Капролон графитонаполненный ПА-6 МГ ф 50х1000 мм (~2,5 кг)</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Капролон графитонаполненный ПА-6 МГ ф 50х1000 мм (~2,5 кг) ШТ</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">шт</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">2</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Каретка R166681320</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Каретка R166681320</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">шт</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">6</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Ковёр автомобильный неформовой тип1 1200*3,5 ТУ 38 005272-76(Курск)</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Ковёр автомобильный неформовой тип1 1200*3,5 ТУ 38 005272-76(Курск)</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">кг</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">21.9</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Кольцо 028-036-46 ГОСТ 9833-73/ГОСТ 18829-73</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Кольцо 028-036-46 ГОСТ 9833-73/ГОСТ 18829-73</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">шт</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">10</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Кольцо 037-045-46 (36,0 х4,6) ГОСТ 9833-73</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Кольцо 037-045-46 ГОСТ 9833-73</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">шт</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">10</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Кольцо 058-066-46-2-2 ГОСТ 9833-73/ГОСТ 18829-73</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Кольцо 058-066-46-2-2 ГОСТ 9833-73/ГОСТ 18829-73</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">шт</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">10</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Кольцо 062-070-46 ГОСТ 9833-73</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Кольцо 062-070-46 ГОСТ 9833-73</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">шт</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">10</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Кольцо 063-073-58 ГОСТ 9833-73</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Кольцо 063-073-58 ГОСТ 9833-73</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">шт</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">50</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Кольцо 068-076-46-2-2 ГОСТ 9833-73</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Кольцо 068-076-46-2-2 ГОСТ 9833-73</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">шт</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">10</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Кольцо 074-082-46</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Кольцо 074-082-46</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">шт</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">10</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Кольцо 077-085-46</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Кольцо 077-085-46</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">шт</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">10</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Кольцо 120-130-58 ГОСТ 9833-73/ГОСТ 18829-73</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Кольцо 120-130-58 ГОСТ 9833-73/ГОСТ 18829-73</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">шт</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">30</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Кольцо 135-145-58</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Кольцо 135-145-58</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">шт</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">30</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Кольцо 245-260-85 ГОСТ 9833-73</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Кольцо 245-260-85 ГОСТ 9833-73</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">шт</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">3</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Кольцо 320-330-58-2-2  ГОСТ 9833-73/ГОСТ 18829-73</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Кольцо 320-330-58-2-2  ГОСТ 9833-73/ГОСТ 18829-73</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">шт</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">22</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Кольцо 380-390-58-2-2</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Кольцо 380-390-58-2-2</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">шт</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">27</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Кольцо 400-410-58</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Кольцо 400-410-58</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">шт</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">12</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Кольцо МУВП К-3 (35х18х9х4,5) ТУ 2500-37600152106-94</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Кольцо МУВП К-3 (35х18х9х4,5) ТУ 2500-37600-152106-94</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">шт</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">100</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Кольцо МУВП К-4 (45х24х11х6,0) ТУ 2500-37600152106-94</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Кольцо МУВП К-4 (45х24х11х6,0) ТУ 2500-37600152106-94</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">шт</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">100</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Кольцо МУВП К-6 (70.5х38х18х9.5) ТУ 2500-37600152106-94</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Кольцо МУВП К-6 (70.5х38х18х9.5) ТУ 2500-37600152106-94</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">шт</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">500</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Кольцо МУВП К-7 (86.5х45х22х11.5) ТУ 2500-37600152106-94</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Кольцо МУВП К-7 (86.5х45х22х11.5) ТУ 2500-37600152106-94</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">шт</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">50</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Лента конвейерная 2.1-800-4-ТК-200-2-6/2-РБ</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Лента конвейерная 2.1-800-4-ТК-200-2-6/2-РБ</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">м2</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">0.8</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Лента конвейерная 2.2-1000-4-EP125-5-2-И-РБ</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Лента конвейерная 2.2-1000-4-EP125-5-2-И-РБ</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">м2</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">6</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Лента конвейерная 2.2-1000-4-ТК-200-2-5/2-Б-РБ ГОСТ 20-2018</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Лента конвейерная 2.2-1000-4-ТК-200-2-5/2-Б-РБ</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">м2</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">22.5</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Лента конвейерная 2.2-1000-4-ТК-200-2-5/2-РБ ГОСТ 20-2018</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Лента конвейерная 2.2-1000-4-ТК-200-2-5/2-РБ OPTIMUM</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">м2</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">0.2</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Лента конвейерная 2.2-1000-5-ТК-200-2-5/2-Б-РБ ГОСТ 20-2018</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Лента конвейерная 2.2-1000-5-ТК-200-2-5/2-РБ</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">м2</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">13.5</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Лента конвейерная 2.2-1200-4-ТК-200-2-5/2-И-РБ ГОСТ 20-2018</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Лента конвейерная 2.2-1200-4-ТК-200-2-5/2-И-РБ</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">м2</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">119.4</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Лента конвейерная 2.2-500-4-EP-200-5-2-И-РБ ГОСТ 20-2018</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Лента конвейерная 2.2-500-4-EP-200-4-2-И-РБ</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">м2</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">32</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Лента конвейерная 2.2-650-4-ТК-200-2-5/2-Б-РБ ГОСТ 20-2018</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Лента конвейерная 2.2-650-4-ТК-200-2-5/2-Б-РБ</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">м2</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">207.35</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Лента конвейерная 2.2-800-4-EP-200-5-2-И-РБ ГОСТ 20-2018</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Лента конвейерная 2.2-800-4-EP-200-4-2-И-РБ</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">м2</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">80.8</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Лента конвейерная 2.2-800-4-ТК-200-2-5/2-Б-РБ ГОСТ 20-2018</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Лента конвейерная 2.2-800-4-ТК-200-2-5/2-Б-РБ</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">м2</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">243.32</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Лента конвейерная 2.2-800-4-ТК-200-2-5/2-Б-РБ ГОСТ 20-2018</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Лента конвейерная 2.2-800-4-ТК-200-2-5/2-Б-РБ OPTIMUM</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">м2</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">2</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Лента конвейерная 2.2-800-5-ТК-200-2-5/2-Б-РБ ГОСТ 20-2018</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Лента конвейерная 2.2-800-5-ТК-200-2-5/2-Б-РБ OPTIMUM</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">м2</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">0.08</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Лента конвейерная 2Л-500-3-EP-200-3-2-И-РБ (8,5-9 мм) ГОСТ 20-2018</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Лента конвейерная 2Л-500-3-EP-200-3-2-И-РБ Донецк</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">м2</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">45.5</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Лента конвейерная 2Л-500-3-ТК-200-2-3/1 НБ ГОСТ 20-85</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Лента конвейерная 2Л-500-3-ТК-200-2-3/1 НБ OPTIMUM ГОСТ 20-85</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">м2</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">0.5</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Лента конвейерная 2Л-800-3-EP-200-5-2-И-РБ</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Лента конвейерная 2Л-800-3-EP-200-3-2-И-РБ</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">м2</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">79.2</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Лента конвейерная 2Л-800-3-ТК-200-2-4/2-Б-РБ ГОСТ 20-2018</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Лента конвейерная 2Л-800-3-ТК-200-2-4/2-Б-РБ OPTIMUM</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">м2</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">1.2</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Лента конвейерная 2М-650-4-ТК-200-2-5/2-М-РБ ГОСТ 20-2018</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Лента конвейерная 2М-650-4-ТК-200-2-5/2</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">м2</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">2.4700000000000002</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Манжета  1-100-3 ГОСТ 6678-72</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Манжета  1-100-3 ГОСТ 6678-72</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">шт</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">30</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Манжета армированная 1.2-38х58х10 ГОСТ 8752-79</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Манжета  1.2-38х58х10  ГОСТ 8752-79</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">шт</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">20</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Манжета 150х180  h=15 ТУ 38-1051725-86 (ГОСТ 6969-54)</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Манжета 150х180  h=15 ТУ 38-1051725-86 (ГОСТ 6969-54)</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">шт</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">20</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Манжета 180х220  h=15 ТУ 38-1051725-86</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Манжета 180х220  h=15 ТУ 38-1051725-86</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">шт</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">2</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Манжета 3-155х125 h-17  ГОСТ 14896-84</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Манжета 3-155х125 h-17  ГОСТ 14896-84</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">шт</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">манжета 3-80х60 h=12 ГОСТ 14896-84</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">манжета 3-80х60 h=12 ГОСТ 14896-84</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">шт</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">10</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Манжета армированная 1.2-70*95*10 ГОСТ 8752-79</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Манжета армированная 1.2-70*95*10 ГОСТ 8752-79</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">шт</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Манжета пневм. 1-100-3 ГОСТ 6678-72</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Манжета пневм. 1-100-3 ГОСТ 6678-72</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">шт</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">12</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Манжета пневм. 2-025-3  ГОСТ 6678-72</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Манжета пневм. 2-025-3  ГОСТ 6678-72</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">шт</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">12</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Мастика битумная 18 л</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Мастика битумная 18 л</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">шт</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">3</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Набивка АПР-31 10х10 мм, ГОСТ 5152-84</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Набивка АПР-31 10х10 мм, ГОСТ 5152-84</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">кг</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">23.8</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Очиститель пены, 500 мл</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Очиститель пены, 500 мл</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">шт</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">30</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Паронит ПМБ 0,5 мм (1560х1030) ГОСТ 481-80</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Паронит ПМБ 0,5 мм (1560х1030) ГОСТ 481-80</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">кг</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">2.7</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Паронит ПМБ 0,6 мм (1520х1030)</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Паронит ПМБ 0,6 мм (1520х1030)</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">кг</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">1.9</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Паронит ПМБ 0,6 мм (1560х1030) ГОСТ 481-80</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Паронит ПМБ 0,6 мм (1560х1030) ГОСТ 481-80 ≈ 1,75 кг</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">кг</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">2.2000000000000002</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Паронит ПМБ 0,8 мм (1560х1030) ГОСТ 481-80</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Паронит ПМБ 0,8 мм (1560х1030) ГОСТ 481-80 ≈ 2,5 кг</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">кг</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">4.9000000000000004</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Паронит ПМБ 0,8 мм (1560х2060) ~5кг</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Паронит ПМБ 0,8 мм (1560х2060) ~5кг</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">кг</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">4.9000000000000004</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Паронит ПМБ 1,0 мм (1520х1030) ГОСТ 481-80 ~ 3,15 кг</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Паронит ПМБ 1,0 мм (1520х1030) ГОСТ 481-80 ~ 3,15 кг</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">кг</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">70</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Паронит ПМБ 1,0 мм (1560х1030) ГОСТ 481-80</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Паронит ПМБ 1,0 мм (1560х1030) ГОСТ 481-80 ~ 3,15 кг</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">кг</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">4.0999999999999996</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Паронит ПМБ 1,0 мм (1560х2060) ГОСТ 481-80</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Паронит ПМБ 1,0 мм (1560х2060) ГОСТ 481-80 ~ 6.3кг</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">кг</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">6.6</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Паронит ПМБ 1,5 мм (1000*1500) ГОСТ 481-80</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Паронит ПМБ 1,5 мм (1000*1500) ГОСТ 481-80</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">кг</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">16.399999999999999</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Паронит ПМБ 1,5 мм (1560х1030) ~4,75кг</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Паронит ПМБ 1,5 мм (1560х1030) ~4,75кг</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">кг</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">33.4</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Паронит ПМБ 2,0 мм (1500х1500) ГОСТ 481-80</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Паронит ПМБ 2,0 мм (1500х1500) ГОСТ 481-80</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">кг</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">2.2999999999999998</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Паронит ПМБ 2,0 мм (1500х2000) ГОСТ 481-80</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Паронит ПМБ 2,0 мм (1500х2000) ГОСТ 481-80</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">кг</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">355.9</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Паронит ПМБ 2,0 мм (1560х1030) ГОСТ 481-80 ~6.3 кг</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Паронит ПМБ 2,0 мм (1560х1030) ГОСТ 481-80 ~6.3 кг</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">кг</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">0.1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Паронит ПМБ 2,0 мм (1560х2060) ГОСТ 481-80~12.6кг</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Паронит ПМБ 2,0 мм (1560х2060) ГОСТ 481-80~12.6кг</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">кг</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">30.6</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Паронит ПМБ 2,0 мм (1560х3090) ГОСТ 481-80~18,9кг</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Паронит ПМБ 2,0 мм (1560х3090) ГОСТ 481-80~18,9кг</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">кг</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">2.35</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Паронит ПМБ 3,0 мм (1500х1700) ГОСТ 481-80</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Паронит ПМБ 3,0 мм (1500х1700) ГОСТ 481-80</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">кг</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">10.7</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Паронит ПМБ 3,0 мм (1500х2000) ГОСТ 481-80</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Паронит ПМБ 3,0 мм (1500х2000) ГОСТ 481-80</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">кг</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">4.0999999999999996</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Паронит ПМБ 3,0 мм (1560х2060) ГОСТ 481-80</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Паронит ПМБ 3,0 мм (1560х2060) ГОСТ 481-80 ~ 18,9кг</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">кг</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">200.2</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Паронит ПМБ 4,0 мм (1500х2000) ГОСТ 481-80</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Паронит ПМБ 4,0 мм (1500х2000) ГОСТ 481-80 ВАТИ</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">кг</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">56.7</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Паронит ПМБ 4,0 мм (1560х2060) ГОСТ 481-80</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Паронит ПМБ 4,0 мм (1560х2060) ГОСТ 481-80</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">кг</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">44.8</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Паронит ПМБ 5,0 мм (1560*1030) ГОСТ 481-80 ~15,75кг</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Паронит ПМБ 5,0 мм (1560*1030) ГОСТ 481-80 ~15,75кг</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">кг</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">9.1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Паронит ПМБ 5,0 мм (1560*2060) ГОСТ 481-80 ~31.5кг</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Паронит ПМБ 5,0 мм (1560*2060) ГОСТ 481-80 ~31.5кг</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">кг</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">226.8</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Паронит ПОН-Б 1 мм (1520х1545 ~4,73кг) ГОСТ 481-80</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Паронит ПОН-Б 1 мм (1520х1545 ~4,73кг) ГОСТ 481-80</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">кг</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">5.0999999999999996</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Паронит ПОН-Б 1 мм (1560х2060) ГОСТ 481-80</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Паронит ПОН-Б 1 мм (1560х2060) ГОСТ 481-80 ~5.8 кг</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">кг</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">3.6</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Паронит ПОН-Б 1,5 мм (1000х1500) ГОСТ 481-80</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Паронит ПОН-Б 1,5  мм (1000х1500) ГОСТ 481-80</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">кг</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">4.0999999999999996</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Паронит ПОН-Б 2 мм (1500х1700) ГОСТ 481-80</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Паронит ПОН-Б 2 мм (1500х1700) ГОСТ 481-80</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">кг</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">12</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Паронит ПОН-Б 2 мм (1500х2000) ГОСТ 481-80</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Паронит ПОН-Б 2 мм (1500х2000) ГОСТ 481-80 ВАТИ</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">кг</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">61.3</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Паронит ПОН-Б 2 мм (~1560х1030мм; ~6,3кг) ГОСТ 481-80</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Паронит ПОН-Б 2 мм (1560х1030) ГОСТ 481-80 ~6,3 кг</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">кг</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">0.8</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Паронит ПОН-Б 2 мм (1560х2060) ГОСТ 481-80</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Паронит ПОН-Б 2 мм (1560х2060) ГОСТ 481-80 ~12,6 кг</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">кг</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">66.3</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Паронит ПОН-Б 2 мм ГОСТ 481-80</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Паронит ПОН-Б 2 мм ГОСТ 481-80</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">кг</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">18.600000000000001</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Паронит ПОН-Б 3 мм (~1560х1030мм; ~9,5кг) ГОСТ 481-80</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Паронит ПОН-Б 3 мм (1560х1030) ГОСТ 481-80 ~9,5 кг</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">кг</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">1.3</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Паронит ПОН-Б 3 мм (1560х2060) ГОСТ 481-80</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Паронит ПОН-Б 3 мм (1560х2060) ГОСТ 481-80 ~18,9 кг</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">кг</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">3.3</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Паронит ПОН-Б 4 мм (1560х2060) ГОСТ 481-80</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Паронит ПОН-Б 4 мм (1560х2060) ГОСТ 481-80 ~25.2 кг</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">кг</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">1.1000000000000001</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Паронит ПОН-Б 6 мм (1560х1030) ГОСТ 481-80 ~18,9 кг</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Паронит ПОН-Б 6 мм (1560х1030) ГОСТ 481-80 ~18,9 кг</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">кг</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">91.1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Патрубок силиконовый угловой ф 35 мм L=200х200 мм, 90 град.</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Патрубок силиконовый угловой ф 35 мм L=200х200 мм, 90 град.</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">шт</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">2</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Патрубок силиконовый угловой ф 38 мм L=150х150 мм, 90 град.</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Патрубок силиконовый угловой ф 38 мм L=150х150 мм, 90 град.</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">шт</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">2</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Патрубок силиконовый угловой ф 45 мм L=150х150 мм, 90 град.</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Патрубок силиконовый угловой ф 45 мм L=150х150 мм, 90 град.</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">шт</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">2</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Пена монтажная 40 мл</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Пена монтажная 40 мл</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">шт</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">120</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Пена монтажная пистолетная, 850 мл</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Пена монтажная пистолетная, 850 мл</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">шт</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">60</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Пластина губчатая-15 (15х1000х2000)</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Пластина губчатая-15 (15х1000х2000)</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">шт</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">2</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Пластина губчатая-15 (3х1000х2000)</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Пластина губчатая-15 (3х1000х2000)</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">шт</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">7</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Пластина губчатая 5 мм (1000х1900 мм; ~8 кг) Китай</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Пластина губчатая-15 (5х1000х1900)</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">шт</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">2</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Пластина губчатая-15 (6х1000х2000)</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Пластина губчатая-15 (6х1000х2000)</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">шт</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">6</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Пластина пористая I - 10 прессовая ТУ 38.105.867-90</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Пластина пористая I - 10 прессовая ТУ 38.105.867-90</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">кг</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">60.4</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Пластина пористая I - 20 прессовая (650х650мм) ТУ 38.105.867-90</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Пластина пористая I - 20 прессовая ТУ 38.105.867-90</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">кг</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">32.200000000000003</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Пластина пористая I - 25 прессовая ТУ 38.105.867-90</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Пластина пористая I - 25 прессовая ТУ 38.105.867-90</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">кг</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">9</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Пластина пористая I - 6 прессовая ТУ 38.105.867-90</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Пластина пористая I - 6 прессовая ТУ 38.105.867-90</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">кг</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">45.2</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Пластина пористая II - 10 прессовая ТУ 38.105.867-90</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Пластина пористая II - 10 прессовая ТУ 38.105.867-90</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">кг</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">60</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21.9375">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Пластина пористая 20 мм прессовая II группа (500х700мм, упак. ~ 31кг) ТУ 38.105.867-90</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Пластина пористая II - 20 прессовая ТУ 38.105.867-90</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">кг</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">10.5</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="21.9375">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Пластина пористая 3 мм прессовая II группа (500х700мм, упак. ~ 30кг) ТУ 38.105.867-90</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Пластина пористая II - 3 прессовая ТУ 38.105.867-90</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">кг</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">11.9</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Пластина пористая II - 4 прессовая (500х700мм) ТУ 38.105.867-90</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Пластина пористая II - 4 прессовая ТУ 38.105.867-90</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">кг</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">19.100000000000001</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Пластина пористая II - 5 прессовая ТУ 38.105.867-90</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Пластина пористая II - 5 прессовая ТУ 38.105.867-90</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">кг</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">30</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Пленка полиэтиленовая 100х3, 100 мкр техническая</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Пленка полиэтиленовая 100х3, 100 мкр техническая</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">рул</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">10</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Пленка полиэтиленовая техническая 200 мкр (3х100м)</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Пленка полиэтиленовая техническая 200 мкр (3х100м)</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">шт</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">10</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Плоский ремень 75-5-БКНЛ-65</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Плоский ремень 75-5-БКНЛ-65/к</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">усл. м2</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">31.66</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Подшипник 6312 (312)</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Подшипник 6312 (312)</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">шт</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">8</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Подшипник 942/15</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Подшипник 942/15</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">шт</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">30</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Полиуретан стержень ф 30х500 мм (~0,5кг; жёлтый) Китай</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Полиуретан стержень ф 30х500 мм (~0,5 кг)</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">шт</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">2</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Полиуретан стержень Ф 55 мм (L=500 мм, ~1,4 кг, жёлтый)</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Полиуретан стержень Ф 55 мм (L=500 мм, ~1,4 кг, жёлтый)</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">штука</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Проволока сварочная ER70S-6 1,0 мм 5 кг  Абинск</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Проволока сварочная ER70S-6 1,0 мм 5 кг  Абинск</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">кг</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">10</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Прокладка для окон алюминиевых конструкций НТ-10</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Прокладка для окон алюминиевых конструкций НТ-10</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">кг</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">30</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Раствор для горячей вулканизации Elastosal H30</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Раствор для горячей вулканизации Elastosal H30</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">шт</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">2</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Ремень 2220 Ld Premium 50*22 (HM 2150 Li)</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Ремень 2220 Ld Premium 50*22 (HM 2150 Li)</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">шт</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">2</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Ремень приводной узкий клиновой Optibelt SK SPZ 850</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Ремень приводной узкий клиновой Optibelt SK SPZ 850</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">шт</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">36</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Ремни 11х10х1120/к</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Ремни 11х10х1120/к</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">шт</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">200</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Ремни 11х10х1220/к</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Ремни 11х10х1220/к</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">шт</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">149</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Ремни 11х10х1280/к</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Ремни 11х10х1280/к</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">шт</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">100</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Ремни 11х10х1400/к</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Ремни 11х10х1400/к</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">шт</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">100</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Ремни 11х10х1450/к</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Ремни 11х10х1450/к</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">шт</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">50</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Ремни 11х10х1650/к</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Ремни 11х10х1650/к</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">шт</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">100</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Ремни 11х10х950/к</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Ремни 11х10х950/к</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">шт</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">194</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Ремни 19х12,5х1220/к</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Ремни 19х12,5х1220/к</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">шт</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">20</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Ремни 19х12,5х1550/к</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Ремни 19х12,5х1550/к</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">шт</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">30</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Ремни 21х14х1303/к</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Ремни 21х14х1303/к</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">шт</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">91</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Ремни 8,5х8х1030/к</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Ремни 8,5х8х1030/к</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">шт</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Ремни 8,5х8х1060/к</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Ремни 8,5х8х1060/к</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">шт</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">51</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Ремни 8,5х8х1090/к</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Ремни 8,5х8х1090/к</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">шт</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">150</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Ремни 8,5х8х1150/к</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Ремни 8,5х8х1150/к</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">шт</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">100</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Ремни 8,5х8х600/к</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Ремни 8,5х8х600/к</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">шт</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">49</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Ремни 8,5х8х875/к</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Ремни 8,5х8х875/к</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">шт</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">50</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Ремни 8,5х8х933/к</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Ремни 8,5х8х933/к</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">шт</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">100</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Ремень клиновой  Z(О)-1180 Lp</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Ремни Z(0)-1180/к</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">шт</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">50</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Ремни Z(0)-1213/к</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Ремни Z(0)-1213/к</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">шт</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">37</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Ремень клиновой Z(0)-1250</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Ремни Z(0)-1250/к</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">шт</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">117</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Ремень клиновой Z(0)-1500</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Ремни Z(0)-1500/к</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">шт</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">89</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Ремни Z(0)-1700/к</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Ремни Z(0)-1700/к</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">шт</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">100</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Ремень клиновой  Z(О)-1800 Lp / 1780 Li</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Ремни Z(0)-1800/к</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">шт</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">67</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Ремни Z(0)-2000/к</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Ремни Z(0)-2000/к</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">шт</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Ремень клиновой Z(0)-560</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Ремни Z(0)-560/к</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">шт</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">2</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Ремень клиновой Z(0)-600</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Ремни Z(0)-600/к</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">шт</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">191</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Ремень клиновой Z(О)-750 Lp / 730 Li</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Ремни Z(0)-750/к</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">шт</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">112</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Ремни А-1650/к</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Ремни А-1650/к</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">шт</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">160</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Ремни А-1950/к</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Ремни А-1950/к</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">шт</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">100</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Ремень клиновой А-2120</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Ремни А-2120/к</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">шт</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">190</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Ремни А-2650/к</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Ремни А-2650/к</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">шт</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">100</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Ремни А-2800/к</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Ремни А-2800/к</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">шт</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">234</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Ремень клиновой А-3000</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Ремни А-3000/к</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">шт</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">100</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Ремень клиновой А-3150</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Ремни А-3150/к</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">шт</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">150</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Ремни А-4000/к</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Ремни А-4000/к</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">шт</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">30</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Ремень клиновой А-600</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Ремни А-600/к</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">шт</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">72</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Ремень клиновой А-900</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Ремни А-900/к</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">шт</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Ремень клиновой В(Б)-1120 Lp / 1080 Li</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Ремни В(Б)-1120/к</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">шт</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">30</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Ремень клиновой В(Б)-1150 Lp</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Ремни В(Б)-1150/к</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">шт</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">5</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Ремень клиновой В(Б)-1250</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Ремни В(Б)-1250/к</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">шт</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">3</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Ремни В(Б)-4250/к</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Ремни В(Б)-4250/к</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">шт</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">30</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Ремень клиновой В(Б)-4750 Lp / 4710 Li</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Ремни В(Б)-4750/к</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">шт</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">30</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Ремни В(Б)-5300/к</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Ремни В(Б)-5300/к</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">шт</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">35</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Ремень клиновой В(Б)-670</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Ремни В(Б)-670/к</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">шт</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">13</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Ремни В(Б)-710/к</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Ремни В(Б)-710/к</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">шт</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">100</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Ремни Д(Г)-2120/к</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Ремни Д(Г)-2120/к</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">шт</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">11</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Ремень клиновой Д(Г)-4750</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Ремни Д(Г)-4750/к</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">шт</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">3</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Ремень клиновой С(В)-2000 Lp / 1941 Li ГОСТ 1284-89</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Ремни С(В)-2000/к</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">шт</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">10</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Ремни С(В)-4750</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Ремни С(В)-4750/к</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">шт</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">30</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Ремонтное соединение 75мм (типа Елочка)</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Ремонтное соединение 75мм (типа Елочка)</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">шт</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">4</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Решетка садовая 15х15, 1 мх20 м (Зеленый) СР-15/1/20</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Решетка садовая 15х15, 1 мх20 м (Зеленый) СР-15/1/20</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">рул</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">10</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Рукав высокого давления 1SN 8 DIN EN 853</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Рукав высокого давления 1SN 8 DIN EN 853</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">пог. м</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">193.1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Рукав дюритовый 40У-30-3 до 10 м, ТУ 0056016-87</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Рукав дюритовый 40У-30-3 до 10 м, ТУ 0056016-87</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">пог. м</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">9.6999999999999993</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Рукав дюритовый 40У-35-5 до 10 м, ТУ 0056016-87</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Рукав дюритовый 40У-35-5 до 10 м, ТУ 0056016-87</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">пог. м</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">10</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Рукав дюритовый 40У-40-13 до 10м, ТУ 0056016-87</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Рукав дюритовый 40У-40-13 до 10м, ТУ 0056016-87</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">пог. м</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">15</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Рукав дюритовый 40У-44-13, ТУ 0056016-87</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Рукав дюритовый 40У-44-13, ТУ 0056016-87</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">пог. м</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">15</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Рукав дюритовый 40У-48-5 до 10 м, ТУ 0056016-87</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Рукав дюритовый 40У-48-5 до 10 м, ТУ 0056016-87</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">пог. м</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">9.6</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Рукав дюритовый 40У-60-7 до 10 м, ТУ 0056016-87</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Рукав дюритовый 40У-60-7 до 10 м, ТУ 0056016-87</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">пог. м</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">5.0999999999999996</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Рукав дюритовый 40У-70-7 до 10 м, ТУ 0056016-87</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Рукав дюритовый 40У-70-7 до 10 м, ТУ 0056016-87</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">пог. м</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">13.7</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Ремень приводной клиновой нормального сечения С(В)-2500/о, ГОСТ 1284.1-3-89</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">С(В)-2500/о, ГОСТ 1284.1-3-89</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">шт</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">7</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Ремень приводной клиновой нормального сечения С(В)-2650/о, ГОСТ 1284.1-3-89</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">С(В)-2650/о, ГОСТ 1284.1-3-89</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">шт</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">10</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Сальник (манжета армированная) 1.2-110х135х12 ГОСТ 8752-79</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Сальник (манжета армированная) 1.2-110х135х12 ГОСТ 8752-79</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">шт</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">24</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Сальник (манжета армированная) 1.2-35х58х10 ГОСТ 8752-79</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Сальник (манжета армированная) 1.2-35х58х10 ГОСТ 8752-79</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">шт</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">6</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Стеклотекстолит СТЭФ лист 10 мм</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Стеклотекстолит СТЭФ-10 мм</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">кг</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">45</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Стержень фторопластовый 160 мм</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Стержень фторопластовый 160 мм</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">кг</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">8.6</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Стержень фторопластовый 18 мм</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Стержень фторопластовый 18мм</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">кг</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">10.55</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Стержень фторопластовый 200 мм</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Стержень фторопластовый 200 мм</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">кг</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">18</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Текстолит  листовой, толщ.0,5 мм</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Текстолит  листовой, толщ.0,5 мм</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">кг</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">33.4</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Текстолит  листовой, толщ. 1 мм</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Текстолит  листовой, толщ.1 мм</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">кг</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">14.4</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Текстолит ПТ 10 мм (~1020х1020 мм; ~15,5 кг )</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Текстолит  листовой, толщ.10 мм</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">кг</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">29.9</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Текстолит  листовой, толщ.2 мм</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Текстолит  листовой, толщ.2 мм</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">кг</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">45.77</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Текстолит  листовой, толщ.3 мм</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Текстолит  листовой, толщ.3 мм</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">кг</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">19.899999999999999</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Текстолит ПТ 6 мм (~1020х1030 мм; ~9,2 кг)</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Текстолит  листовой, толщ.6 мм</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">кг</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">37.9</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Текстолит ПТ-60 мм</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Текстолит ПТ-60 мм</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">кг</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">86.8</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Текстолит ПТК-10 мм  ГОСТ 5-78</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Текстолит ПТК-10 мм</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">кг</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">65.7</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Текстолит ПТК-50 мм</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Текстолит ПТК-50 мм</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">кг</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">72.8</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Текстолит стержень ф 15х1000 мм (0,3 кг)</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Текстолит. стержень Ф 15 мм (кг)</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">кг</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">31.05</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Техпластина 2Н-I-МБС-С-1 ГОСТ 7338-90 Р. 2178Р</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Техпластина 2Н-I-МБС-С-1 ГОСТ 7338-90 Р. 2178Р</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">кг</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">156.80000000000001</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Техпластина 2Н-I-МБС-С-3 ГОСТ 7338-90 Р. 2178Р</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Техпластина 2Н-I-МБС-С-3 ГОСТ 7338-90 Р. 2178Р</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">кг</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">96</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Техпластина 2Н-I-МБС-С-4 ГОСТ 7338-90 Р. 2178Р</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Техпластина 2Н-I-МБС-С-4 ГОСТ 7338-90 Р. 2178Р</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">кг</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">197.3</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Техпластина 2Н-I-МБС-С-5 ГОСТ 7338-90 Р. 2178Р</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Техпластина 2Н-I-МБС-С-5 ГОСТ 7338-90 Р. 2178Р</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">кг</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">293.7</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Техпластина 2Н-I-МБС-С-6 ГОСТ 7338-90 Р.2178Р</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Техпластина 2Н-I-МБС-С-6 ГОСТ 7338-90 Р.2178Р</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">кг</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">531.6</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Техпластина 2Н-I-МБС-С-8 (шир. до 1300)  ГОСТ 7338-90</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Техпластина 2Н-I-МБС-С-8 (шир. до 1300)</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">кг</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">38.1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Техпластина 2Н-I-МБС-С-8 ГОСТ 7338-90 Р.2178Р</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Техпластина 2Н-I-МБС-С-8 ГОСТ 7338-90 Р.2178Р</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">кг</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">234.4</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Техпластина 2Н-I-ТМКЩ-С-1 (шир. 1200) ГОСТ 7338-90</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Техпластина 2Н-I-ТМКЩ-С-1 (шир.1200)  ГОСТ 7338-90</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">кг</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">14.1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Техпластина 2Н-I-ТМКЩ-С-10 (шир. 875) ГОСТ 7338-90</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Техпластина 2Н-I-ТМКЩ-С-10 (шир. 875) ГОСТ 7338-90</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">кг</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">29.5</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Техпластина 2Н-I-ТМКЩ-С-2 ГОСТ 7338-90</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Техпластина 2Н-I-ТМКЩ-С-2 (Бузулук) ГОСТ 7338-90</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">кг</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">2.0499999999999998</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Техпластина 2Н-I-ТМКЩ-С-2 (шир. 875) ГОСТ 7338-90</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Техпластина 2Н-I-ТМКЩ-С-2 (шир. 875) ГОСТ 7338-90</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">кг</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">928.79</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Техпластина 2Н-I-ТМКЩ-С-3 (шир. 875) ГОСТ 7338-90</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Техпластина 2Н-I-ТМКЩ-С-3 (шир. 875) ГОСТ 7338-90</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">кг</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">623.29999999999995</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Техпластина 2Н-I-ТМКЩ-С-3 шир.1200 ГОСТ 7338-90</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Техпластина 2Н-I-ТМКЩ-С-3 шир.1200 ГОСТ 7338-90</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">кг</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">49.25</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Техпластина 2Н-I-ТМКЩ-С-4 ГОСТ 7338-90</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Техпластина 2Н-I-ТМКЩ-С-4 (Бузулук) ГОСТ 7338-90</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">кг</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">27.7</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Техпластина 2Н-I-ТМКЩ-С-4 (шир. 875) ГОСТ 7338-90</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Техпластина 2Н-I-ТМКЩ-С-4 (шир. 875) ГОСТ 7338-90</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">кг</Data></Cell>
+    <Cell ss:StyleID="s28"><Data ss:Type="Number">9784</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Техпластина 2Н-I-ТМКЩ-С-5 (шир. 1200) ГОСТ 7338-90</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Техпластина 2Н-I-ТМКЩ-С-5 (шир. 1200) ГОСТ 7338-90</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">кг</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">162</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Техпластина 2Н-I-ТМКЩ-С-5 (шир. 875) ГОСТ 7338-90</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Техпластина 2Н-I-ТМКЩ-С-5 (шир. 875) ГОСТ 7338-90</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">кг</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">181.1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Техпластина 2Н-I-ТМКЩ-С-6 ГОСТ 7338-90</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Техпластина 2Н-I-ТМКЩ-С-6 (Бузулук) ГОСТ 7338-90</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">кг</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">6.7</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Техпластина 2Н-I-ТМКЩ-С-6 (шир. 1200) ГОСТ 7338-90</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Техпластина 2Н-I-ТМКЩ-С-6 (шир. 1200) ГОСТ 7338-90</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">кг</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">518.9</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Техпластина 2Н-I-ТМКЩ-С-8 (631) шир. 1200 ГОСТ 7338-90</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Техпластина 2Н-I-ТМКЩ-С-8 (631) шир. 1200 ГОСТ 7338-90</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">кг</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">485.6</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Техпластина 2Н-I-ТМКЩ-С-8  (шир. 875) ГОСТ 7338-90</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Техпластина 2Н-I-ТМКЩ-С-8 (шир. 875) ГОСТ 7338-90</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">кг</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">3.6</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Техпластина 2Ф-I-МБС-С-5/к (1200х1000) ГОСТ 7338-90</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Техпластина 2Ф-I-МБС-С-5/к (1200х1000) ГОСТ 7338-90</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">кг</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">22</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Техпластина 2Ф-I-ТМКЩ-С-3 (720х720 мм; ~2,7 кг) ГОСТ 7338-90</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Техпластина 2Ф-I-ТМКЩ-С-3 (720х720) ГОСТ 7338-90 (шт)</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">шт</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">1</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Ткань асбестовая АТ-1С ГОСТ 6102-78</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Ткань асбестовая АТ-1С ГОСТ 6102-78</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">м2</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">10</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Трубка 1-2С 8х3 ГОСТ 5496-78</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Трубка 1-2С 8х3 ГОСТ 5496-78</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">кг</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">30</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Трубка ПВХ, тип 305, электроизоляционная, ТВ-40, 3х0,4 мм</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Трубка ПВХ, тип 305, электроизоляционная, ТВ-40, 3х0,4 мм</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">кг</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">13.4</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Трубка ПВХ, тип 305, электроизоляционная, ТВ-40, 4х0,6 мм</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Трубка ПВХ, тип 305, электроизоляционная, ТВ-40, 4х0,6 мм</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">кг</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">43.8</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Фторопластовая пластина_10 мм</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Фторопластовая пластина_10 мм</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">кг</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">7.7</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Фторопластовая пластина_20 мм</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Фторопластовая пластина_20 мм</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">кг</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">17</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Хомут 10х16 мм</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Хомут 10х16 мм</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">шт</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">48</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Хомут 12х20 мм</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Хомут 12х20 мм</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">шт</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">10</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Хомут 25х40 мм</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Хомут 25х40 мм</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">шт</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">10</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Хомут Либро МХ 32х50 мм</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Хомут 32х50 мм</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">шт</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">26</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Хомут Либро МХ 40х60 мм</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Хомут 40х60 мм</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">шт</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">30</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Хомут силовой одноболтовый 40-43/20 W1</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Хомут силовой одноболтовый 40-43/20 W1</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">шт</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">6</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Хомут силовой одноболтовый 48-51/22 W1</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Хомут силовой одноболтовый 48-51/22 W1</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">шт</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">6</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Хомут червячный 08-16/9 нерж. W2 (AISI 430)</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Хомут червячный 08-16/9 нерж. W2 (AISI 430)</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">шт</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">10</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Хомут червячный 10-16/9 нерж. W2 (AISI 430)</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Хомут червячный 10-16/9 нерж. W2 (AISI 430)</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">шт</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">30</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Хомут червячный 16-25/9 нерж. W2 (AISI 430)</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Хомут червячный 16-25/9 нерж. W2 (AISI 430)</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">шт</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">50</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Хомут червячный 20-32/9 нерж. W2 (AISI 430)</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Хомут червячный 20-32/9 нерж. W2 (AISI 430)</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">шт</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">30</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">ЦементМ-500 50 кг Новорос.</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">ЦементМ-500 50 кг Новорос.</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">шт</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">20</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">шайба гров.оц. d-08</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">шайба гров.оц. d-08</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">шт</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">100</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Шланг поливочный 20х3 РИФ.20м, ТУ 2559-055-00149334-2008</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Шланг поливочный 20х3 РИФ.20м, ТУ 2559-055-00149334-2008</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">пог. м</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">400</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Шнур 1-2С d 10х16 ГОСТ 6467-79</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Шнур 1-2С d 10х16 ГОСТ 6467-79</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">кг</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">45.15</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Шнур 1-2С d 20х20 ГОСТ 6467-79</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Шнур 1-2С d 20х20 ГОСТ 6467-79</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">кг</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">145.69999999999999</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Шнур 1-2С d 28 ГОСТ 6467-79</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Шнур 1-2С d 28 ГОСТ 6467-79</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">кг</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">123.6</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Шнур 1-4С d 20х20 ГОСТ 6467-79</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Шнур 1-4С d 20х20 ГОСТ 6467-79</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">кг</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">56.9</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Шнур 1-4С d 25 ГОСТ 6467-79</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Шнур 1-4С d 25 ГОСТ 6467-79</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">кг</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">21.971</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Шнур вакуумный 7x10-51-2062 ТУ 38.105.108-76</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Шнур 7x10-51-2062</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">кг</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">25</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Шнур резиновый 1-1с Ф 16 мм ГОСТ 6467-79</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Шнур резиновый 1-1с Ф 16 мм ГОСТ 6467-79</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">кг</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">25</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Шнур резиновый 1-1с Ф 20 мм ГОСТ 6467-79</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Шнур резиновый 1-1с Ф 20 мм ГОСТ 6467-79</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">кг</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">30</Data></Cell>
+   </Row>
+   <Row ss:AutoFitHeight="0" ss:Height="11.0625">
+    <Cell ss:MergeAcross="4" ss:StyleID="s25"><Data ss:Type="String">Шнур ШАОН 5 мм ГОСТ 1779-83</Data></Cell>
+    <Cell ss:StyleID="s26"><Data ss:Type="String">Шнур ШАОН 5 мм ГОСТ 1779-83</Data></Cell>
+    <Cell ss:StyleID="s25"><Data ss:Type="String">кг</Data></Cell>
+    <Cell ss:StyleID="s27"><Data ss:Type="Number">5</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <PageSetup>
+    <Header x:Margin="0"/>
+    <Footer x:Margin="0"/>
+    <PageMargins x:Bottom="0.39370078740157483" x:Left="0.39370078740157483"
+     x:Right="0.39370078740157483" x:Top="0.39370078740157483"/>
+   </PageSetup>
+   <Unsynced/>
+   <NoSummaryRowsBelowDetail/>
+   <NoSummaryColumnsRightDetail/>
+   <DisplayPageBreak/>
+   <FitToPage/>
+   <Print>
+    <FitHeight>0</FitHeight>
+    <LeftToRight/>
+    <ValidPrinterInfo/>
+    <HorizontalResolution>600</HorizontalResolution>
+    <VerticalResolution>600</VerticalResolution>
+   </Print>
+   <Selected/>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>

@@ -1,0 +1,129 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Остатки на складе в Шахтах</title>
+    <script src=
+                    "https://code.jquery.com/jquery-3.5.1.js">
+    </script>
+    <style>
+        table {
+            margin: 0 auto;
+            font-size: large;
+            border: 1px solid black;
+        }
+        h1 {
+            text-align: center;
+            color: #006600;
+            font-size: xx-large;
+            font-family: 'Gill Sans',
+            'Gill Sans MT', ' Calibri',
+            'Trebuchet MS', 'sans-serif';
+        }
+        td {
+            background-color: #E4F5D4;
+            border: 1px solid black;
+        }
+        th, td {
+            font-weight: bold;
+            border: 1px solid black;
+            padding: 10px;
+            text-align: center;
+        }
+        td {
+            font-weight: lighter;
+        }
+    </style>
+</head>
+<body>
+<header>
+    <a class="logo" href="file:///C:/Users/sbran/GolandProjects/price/internal/data/msk.html">Склад Москва</a>
+    <br>
+    <a class="logo" href="file:///C:/Users/sbran/GolandProjects/price/internal/data/sh.html">Склад Шахты</a>
+</header>
+<select id="myselect" onchange="change_myselect(this.value)">
+    <option value="">Choose an option:</option>
+    <option value="customers">Customers</option>
+    <option value="products">Products</option>
+    <option value="suppliers">Suppliers</option>
+</select>
+<script>
+    function change_myselect(sel) {
+        const dbParam = JSON.stringify({table:sel,limit:20});
+        const xmlhttp = new XMLHttpRequest();
+        xmlhttp.onload = function() {
+            const myObj = JSON.parse("http://localhost:80");
+            let text = "<table border='1'>"
+            for (let x in myObj) {
+                text += "<tr><td>" + myObj[x].name + "</td></tr>";
+            }
+            text += "</table>"
+            document.getElementById("demo").innerHTML = text;
+        }
+        xmlhttp.open("POST", "json_demo_html_table.php");
+        xmlhttp.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+        xmlhttp.send("x=" + dbParam);
+    }
+</script>
+<section>
+    <h1>Цена закупки склад Москва</h1>
+    <table class="price_msk">
+        <thead>
+        <tr>
+            <th>Наименование</th>
+            <th>Количество</th>
+            <th>Ед.изм.</th>
+            <th>Цена</th>
+            <th>Сообщение</th>
+        </tr>
+        </thead>
+    </table>
+    <h1>Цена закупки склад Шахты</h1>
+    <table class="price_sh">
+        <thead>
+        <tr>
+            <th>Наименование</th>
+            <th>Количество</th>
+            <th>Ед.изм.</th>
+            <th>Цена</th>
+            <th>Сообщение</th>
+        </tr>
+        </thead>
+    </table>
+    <script>
+        $(document).ready(function () {
+            $.getJSON("http://localhost:80",
+                function (data) {
+                    var product = '';
+                    $.each(data.price_msk, function (key, value) {
+                        product += '<tr>';
+                        product += '<td>' +
+                            value.name + '</td>';
+                        product += '<td>' +
+                            value.unit + '</td>';
+                        product += '<td>' +
+                            value.sum + '</td>';
+                        product += '<td>' +
+                            value.price_buy + '</td>';
+                        product += '</tr>';
+                    });
+                    $('.price_msk').append(product);
+                    product = '';
+                    $.each(data.price_sh, function (key, value) {
+                        product += '<tr>';
+                        product += '<td>' +
+                            value.name + '</td>';
+                        product += '<td>' +
+                            value.unit + '</td>';
+                        product += '<td>' +
+                            value.sum + '</td>';
+                        product += '<td>' +
+                            value.price_buy + '</td>';
+                        product += '</tr>';
+                    });
+                    $('.price_sh').append(product);
+                });
+        });
+    </script>
+</section>
+</body>
+</html>
